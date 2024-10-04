@@ -13,3 +13,12 @@ The dataset is not included in this repository. You can download the dataset fro
 
 Once downloaded, place the dataset in the `data/` directory
 
+## Dependencies
+
+To install the necessary dependencies, you can use the provided `requirements.txt` file.
+
+```bash
+pip install -r requirements.txt
+
+
+
