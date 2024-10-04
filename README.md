@@ -4,7 +4,7 @@ This project is designed for multimodal classification based on both image and t
 
 ## Dataset
 
-The dataset is not included in this repository. You can download the dataset from [this Google Drive link]([https://drive.google.com/file/d/1Y9JpEf_Y22bZYqm6YbmFkorjmG2m_9bo/view?usp=sharing]).
+The dataset is not included in this repository. You can download the dataset from [this Google Drive link](https://drive.google.com/file/d/1Y9JpEf_Y22bZYqm6YbmFkorjmG2m_9bo/view?usp=sharing).
 
 ### Data Format
 - **train.csv**: The training data, which contains image paths and corresponding text labels.
