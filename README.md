@@ -2,5 +2,14 @@
 
 This project is designed for multimodal classification based on both image and text inputs. It uses a custom PyTorch model to process the data and perform training, validation, and testing. The dataset consists of images and associated textual labels.
 
-## Project Structure
-├── data/ # Directory to store your dataset ├── src/ # Contains main code files │ ├── init.py # Initializes the package │ ├── dataset.py # Code related to loading and processing the dataset │ ├── model.py # Model definition for the image-text classifier ├── train.py # Training script ├── test.py # Testing script ├── requirements.txt # Project dependencies ├── README.md # This file
+## Dataset
+
+The dataset is not included in this repository. You can download the dataset from [this Google Drive link]([https://drive.google.com/your-dataset-link](https://drive.google.com/file/d/1Y9JpEf_Y22bZYqm6YbmFkorjmG2m_9bo/view?usp=sharing)).
+
+### Data Format
+- **train.csv**: The training data, which contains image paths and corresponding text labels.
+- **test.csv**: The testing data, containing image paths and dummy text labels (which will be predicted by the model).
+- **data/**: A directory containing the images used for training and testing.
+
+Once downloaded, place the dataset in the `data/` directory
+
