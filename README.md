@@ -1,6 +1,11 @@
 # Image-Text Multimodal Classification
 
-This project is designed for multimodal classification based on both image and text inputs. It uses a custom PyTorch model to process the data and perform training, validation, and testing. The dataset consists of images and associated textual labels.
+This project is designed for multimodal classification based on both image and text inputs. It uses a custom PyTorch model to process the data and perform training, validation, and testing. The dataset consists of images and associated textual labels. 
+
+This project is part of a deep learning assignment for the University of Sydney. It involves building an image-text classification model using a custom dataset. The objective is to achieve high accuracy on the given dataset, with the final goal of submitting results to a Kaggle competition.
+
+The competition can be found at the following link:  
+[Kaggle Competition Link](https://www.kaggle.com/competitions/multi-label-classification-competition-2024)
 
 ## Dataset
 
