@@ -19,6 +19,3 @@ To install the necessary dependencies, you can use the provided `requirements.tx
 
 ```bash
 pip install -r requirements.txt
-
-
-
