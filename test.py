@@ -4,7 +4,7 @@ import numpy as np
 from model import ImageTextModel
 from dataset import ImageTextDataset
 from torch.utils.data import DataLoader
-test_file = pd.read_csv('/content/COMP5329S1A2Dataset/test.csv', on_bad_lines='skip')
+test_file = pd.read_csv('data/COMP5329S1A2Dataset/test.csv', on_bad_lines='skip')
 test_file['Labels'] = '0'
 # Fill bad lines
 pd_arr1 = test_file[:6889]
