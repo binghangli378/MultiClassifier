@@ -19,6 +19,7 @@ To install the necessary dependencies, you can use the provided `requirements.tx
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## Training
 
@@ -26,5 +27,13 @@ To train the model, run the train.py script. This will load the dataset, initial
 
 ```bash
 python train.py
+```
+
+## Testing
+To test the model on the test set and generate predictions, run the test.py script.
+
+```bash
+python test.py
+```
 
 
