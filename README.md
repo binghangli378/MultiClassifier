@@ -19,3 +19,12 @@ To install the necessary dependencies, you can use the provided `requirements.tx
 
 ```bash
 pip install -r requirements.txt
+
+## Training
+
+To train the model, run the train.py script. This will load the dataset, initialize the model, and train it for a set number of epochs.
+
+```bash
+python train.py
+
+
